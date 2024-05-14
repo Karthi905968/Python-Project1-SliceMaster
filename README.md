@@ -56,10 +56,10 @@ arch -x86_64 /usr/bin/python3 slicemaster.py
 - Lives indicator.
 
 ## Screenshots
-<img width="787" alt="Screenshot 2024-05-14 at 1 01 02 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/9b493e35-3008-4f38-b3bc-37306bf1f587">
-<img width="786" alt="Screenshot 2024-05-14 at 1 01 16 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/b81f6b09-25c4-4316-87d8-aa141722fb86">
-<img width="632" alt="Screenshot 2024-05-14 at 1 03 13 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/ddcbd1bb-36ed-4245-8239-93a2175c53b8">
-<img width="627" alt="Screenshot 2024-05-14 at 1 03 43 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/6270842c-dd74-423a-9363-268a0b84b459">
+<img width="750" alt="Screenshot 2024-05-14 at 1 01 02 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/9b493e35-3008-4f38-b3bc-37306bf1f587">
+<img width="750" alt="Screenshot 2024-05-14 at 1 01 16 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/b81f6b09-25c4-4316-87d8-aa141722fb86">
+<img width="750" alt="Screenshot 2024-05-14 at 1 03 13 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/ddcbd1bb-36ed-4245-8239-93a2175c53b8">
+<img width="750" alt="Screenshot 2024-05-14 at 1 03 43 PM" src="https://github.com/Karthi905968/Python-Project1-SliceMaster/assets/144101745/6270842c-dd74-423a-9363-268a0b84b459">
 
 ## Credits
 
